@@ -17,4 +17,4 @@
  * Aucun
  
  # ``` Contenu: ```
- 1. [`Généralites & bases`]() - ``` 22 Avril 2024 ``` ;
+ 1. [`Généralites & bases`](https://github.com/pape-barro/L1-LMI-ALGO/blob/main/generalites%26bases.pdf) - ``` 22 Avril 2024 ``` ;
