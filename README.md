@@ -20,3 +20,4 @@
  1. [`Généralites`](https://github.com/pape-barro/L1-LMI-ALGO/blob/main/generalites.pdf) - ``` 22 Avril 2024 ``` ;
  2. [`Notions de base`](https://github.com/pape-barro/L1-LMI-ALGO/blob/main/notions_de_base.pdf) - ``` 29 Avril 2024 ``` ;
  3. [`Les structures conditionnelles`](https://github.com/pape-barro/L1-LMI-ALGO/blob/main/structures_conditionnelles.pdf) - ``` 06 Mai 2024 ``` ;
+ 4. [`Les structures itératives`](https://github.com/pape-barro/L1-LMI-ALGO/blob/main/structures_iteratives.pdf) - ``` 27 Mai 2024 ``` ;
